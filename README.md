@@ -1,2 +1,2 @@
 # Home_sales
-filtering average home sale prices
+Determining Key Metrics of Home Sales
